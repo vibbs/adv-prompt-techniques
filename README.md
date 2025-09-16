@@ -148,7 +148,7 @@ uv run flake8
 
 ## 📖 Blog Article
 
-This repository supports the blog article: **"Advanced Prompting Techniques for Complex Reasoning"**
+This repository supports the blog article: [**"Advanced Prompting Techniques for Complex Reasoning"**](https://www.blocksimplified.com/blog/advanced-prompting-techniques-for-complex-reasoning)
 
 Each technique folder contains:
 - **Implementation**: Working Python code demonstrating the technique
@@ -185,6 +185,6 @@ For questions or suggestions, please open an issue in this repository.
 ---
 
 
-Built with ❤️ by [Vaibhav Doddihal](https://www.linkedin.com/in/vaibhavdoddihal/) | [BlockSimplified](https://www.blocksimplified.com/)
+Built with ❤️ by [Vaibhav Doddihal](https://www.linkedin.com/in/vaibhavdod/) | [BlockSimplified](https://www.blocksimplified.com/)
 
 **Happy Prompting! 🎯**
